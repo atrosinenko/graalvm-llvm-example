@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Scala console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" singleton="true">
+    <module name="graalllvmexample" />
+    <setting name="vmparams4" value="-Djline.terminal=NONE" />
+    <setting name="workingDirectory" value="$PROJECT_DIR$" />
+    <setting name="consoleArgs" value="-usejavacp" />
+    <method />
+  </configuration>
+</component>
